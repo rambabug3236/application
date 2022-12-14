@@ -1,1 +1,2 @@
 This is file C
+this is Feature branch and comment to use sqash merge
