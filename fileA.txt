@@ -1,6 +1,11 @@
 This is file A
 <<<<<<< HEAD
+<<<<<<< HEAD
 This is a change to file
 =======
 making anotehr changes
+>>>>>>> featureA
+=======
+making anotehr changes
+changes on 2.43 update to validate.
 >>>>>>> featureA
